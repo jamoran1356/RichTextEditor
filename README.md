@@ -9,10 +9,10 @@
 
 ## Instalación
  Colocar dentro de tu head
-    <link href="assest/fontawesome/css/fontawesome.css" rel="stylesheet">
-    <link href="assest/fontawesome/css/brands.css" rel="stylesheet">
-    <link href="assest/fontawesome/css/solid.css" rel="stylesheet">
-    <link rel="stylesheet" href="assest/styles/styles.css">
+    *<link href="assest/fontawesome/css/fontawesome.css" rel="stylesheet">
+    *<link href="assest/fontawesome/css/brands.css" rel="stylesheet">
+    *<link href="assest/fontawesome/css/solid.css" rel="stylesheet">
+    *<link rel="stylesheet" href="assest/styles/styles.css">
 
 En tu body o dentro de tu formulario:
 <div id="editor"></div>
