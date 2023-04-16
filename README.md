@@ -9,14 +9,14 @@
 
 ## Instalación
  Colocar dentro de tu head
- 
+
     link href="assest/fontawesome/css/fontawesome.css" rel="stylesheet"
     link href="assest/fontawesome/css/brands.css" rel="stylesheet"
     link href="assest/fontawesome/css/solid.css" rel="stylesheet"
     link rel="stylesheet" href="assest/styles/styles.css"
 
 En tu body o dentro de tu formulario:
-<div id="editor"></div>
+    <div id="editor"></div>
 
 y antes de la etiqueta de cierre:
 <script src="assest/js/app.js"></script>
@@ -24,7 +24,7 @@ y antes de la etiqueta de cierre:
 ## como visualizar el contenido
 Puedes crear una función para tratar los datos que recopilas del editor de texto, aquí un ejemplo:
 
-<button id="enviar" class="btnenviar" onclick="grabar()">Grabar</button>
+button id="enviar" class="btnenviar" onclick="grabar()">Grabar</button
 
 <script>
 function grabar(){
