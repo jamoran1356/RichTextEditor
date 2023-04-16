@@ -8,15 +8,13 @@
 
 
 ## Instalación
- Colocar dentro de tu <head>
- <head>
+ Colocar dentro de tu head
     <!--estilos de fontawesome para los botones-->
     <link href="assest/fontawesome/css/fontawesome.css" rel="stylesheet">
     <link href="assest/fontawesome/css/brands.css" rel="stylesheet">
     <link href="assest/fontawesome/css/solid.css" rel="stylesheet">
     <!--estilos propios del contenedor-->
     <link rel="stylesheet" href="assest/styles/styles.css">
- </head>   
 
 En tu body o dentro de tu formulario:
 <div id="editor"></div>
