@@ -16,7 +16,7 @@
     link rel="stylesheet" href="assest/styles/styles.css"
 
 En tu body o dentro de tu formulario:
-    <div id="editor"></div>
+    div id="editor"
 
 y antes de la etiqueta de cierre:
 <script src="assest/js/app.js"></script>
